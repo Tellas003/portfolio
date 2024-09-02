@@ -240,6 +240,11 @@ body {
   width: 300px;
 
 }
+@media (min-width:768px){
+  .home_img{
+    top: 100px;
+  }
+}
 
 .home_img img {
   width: 70%;
